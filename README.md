@@ -13,5 +13,5 @@ Everything has to be done using pure HTML which is a great opportunity to work o
 - Link webpages together in index.html file
 - HTML only
 
-[https://www.theodinproject.com/lessons/foundations-recipes](Link to the assignment)
+[Link to the assignment](https://www.theodinproject.com/lessons/foundations-recipes)
 
